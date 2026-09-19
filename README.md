@@ -5,4 +5,5 @@
 ## 0.25.0
 可加载图片需放在 `Plugins/Images/test.png`
 
-[License](./LICENSE)
+# 请查阅
+# [License](./LICENSE)
